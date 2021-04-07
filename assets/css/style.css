@@ -1,0 +1,18 @@
+.col-4 {
+    padding: 25px;
+}
+.card img.card-img-top {
+    height: 250px;
+    width: auto;
+    max-width: 100%;
+    margin: auto;
+}
+
+.card img:hover {
+    cursor: pointer;
+    border: 5px solid red;
+    border-radius: 10px;
+    padding: 25px;
+    animation: inherit;
+}
+
